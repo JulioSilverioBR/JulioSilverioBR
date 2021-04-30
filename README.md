@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/44592638/116645932-4202fc80-a94d-11eb-87b6-ed5c590291eb.png" alt="Spring" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibernate" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go" width="80" height="60" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="60" height="60" style="max-width:100%;"></img>
+<img src="https://user-images.githubusercontent.com/44592638/116645989-665ed900-a94d-11eb-9031-b23fa410d2ef.png" alt="AWS" width="60" height="60" style="max-width:100%;"></img>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioSilverioBR&show_icons=true&theme=radical)
