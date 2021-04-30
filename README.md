@@ -1,7 +1,8 @@
-Olá Seja bem vindo! 
-Estou Atualmente trabalhando na Qintess
-Atualemten aprendendo Go e AWS
-Estou sempre atrás de novos desáfios!
+Olá Seja bem vindo!<br> 
+Estou Atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="JAVA" width="60" height="60" style="max-width:100%;"></img><br>
+
+Atualemten aprendendo Go e AWS<br>
+Estou sempre atrás de novos desáfios!<br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://user-images.githubusercontent.com/44592638/116645932-4202fc80-a94d-11eb-87b6-ed5c590291eb.png" alt="Spring" width="60" height="60" style="max-width:100%;"></img>
