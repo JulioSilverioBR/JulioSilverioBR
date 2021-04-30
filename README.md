@@ -1,5 +1,5 @@
 Olá Seja bem vindo!<br> 
-Estou Atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="Qintess" width="60" height="60" style="max-width:100%;margin-right:-100px"></img><br>
+Estou atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="Qintess" width="60" height="60" style="max-width:100%;"></img><br>
 Atualmente aprendendo Go e AWS<br><img src="https://user-images.githubusercontent.com/44592638/116646773-4b8d6400-a94f-11eb-94ce-e584292c26be.png" alt="Go and AWS" width="180" height="80" style="max-width:100%;"></img><br>
 Linguagens que conheço atualmente<br>
 
@@ -15,8 +15,8 @@ Linguagens que conheço atualmente<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="max-width:100%;"></img></img></img>
 
-
+Status do Perfil:<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioSilverioBR&show_icons=true&theme=radical)
 
-
+Linguagens mais usadas nos repositórios:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSilverioBR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
