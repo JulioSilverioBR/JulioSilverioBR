@@ -1,5 +1,5 @@
 Olá Seja bem vindo!<br> 
-Estou Atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="Qintess" width="60" height="60" style="max-width:100%;"></img><br>
+Estou Atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="Qintess" width="60" height="60" style="max-width:100%;margin-right:-100px"></img><br>
 Atualmente aprendendo Go e AWS<br><img src="https://user-images.githubusercontent.com/44592638/116646773-4b8d6400-a94f-11eb-94ce-e584292c26be.png" alt="Go and AWS" width="180" height="80" style="max-width:100%;"></img><br>
 Linguagens que conheço atualmente<br>
 
