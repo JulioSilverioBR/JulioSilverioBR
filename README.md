@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60" style="max-width:100%;"></img></img>
 <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring" width="80" height="60" style="max-width:100%;"></img>
 <img src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibernate" width="60" height="60" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go" width="60" height="60" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go" width="80" height="60" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioSilverioBR&show_icons=true&theme=radical)
 
