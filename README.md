@@ -1,5 +1,5 @@
 Olá Seja bem vindo!<br> 
-Estou atualmente trabalhando na Qintess<br> <img src="https://user-images.githubusercontent.com/44592638/116646661-02d5ab00-a94f-11eb-95f6-c2385d018c7b.png" alt="Qintess" width="60" height="60" style="max-width:100%;"></img><br>
+Estou atualmente trabalhando na Qintess<br> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fserasa-experian-logo%2Fserasa-experian-logo%2F&psig=AOvVaw1ausp8hbGQ_9TV6tfk5NwS&ust=1634652931871000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiohO2S1PMCFQAAAAAdAAAAABAD" alt="Qintess" width="60" height="60" style="max-width:100%;"></img><br>
 Atualmente aprendendo Go e AWS<br><img src="https://user-images.githubusercontent.com/44592638/116646773-4b8d6400-a94f-11eb-94ce-e584292c26be.png" alt="Go and AWS" width="180" height="80" style="max-width:100%;"></img><br>
 Linguagens que conheço atualmente<br>
 
